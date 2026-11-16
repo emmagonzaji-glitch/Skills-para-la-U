@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "skills": {
+    "humanizer": {
+      "source": "blader/humanizer",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "04cdabbcceaa7b5d4bd4b1ea02339013503d623b270b5b3b2e274837494d7134"
+    },
+    "last30days": {
+      "source": "mvanhorn/last30days-skill",
+      "sourceType": "github",
+      "skillPath": "skills/last30days/SKILL.md",
+      "computedHash": "0b8600398e056c36bd453a9102deaeb45db9d127249fd9da92173737003a8b8c"
+    },
+    "watch": {
+      "source": "bradautomates/claude-video",
+      "sourceType": "github",
+      "skillPath": "skills/watch/SKILL.md",
+      "computedHash": "26c7f5055f38651b6da2649506ad34f3d98ade4b540e417acb74efbf3258bf72"
+    }
+  }
+}
